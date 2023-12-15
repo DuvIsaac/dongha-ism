@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1920</width>
+    <height>1080</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>1920</width>
+      <height>1080</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../img/pages_v4/슬라이드5.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_1">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>180</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="autoDefault">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_2">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>180</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_3">
+    <property name="geometry">
+     <rect>
+      <x>660</x>
+      <y>180</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_4">
+    <property name="geometry">
+     <rect>
+      <x>970</x>
+      <y>180</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_5">
+    <property name="geometry">
+     <rect>
+      <x>1280</x>
+      <y>180</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_6">
+    <property name="geometry">
+     <rect>
+      <x>1580</x>
+      <y>180</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_11">
+    <property name="geometry">
+     <rect>
+      <x>1280</x>
+      <y>560</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_10">
+    <property name="geometry">
+     <rect>
+      <x>970</x>
+      <y>560</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_9">
+    <property name="geometry">
+     <rect>
+      <x>660</x>
+      <y>560</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_8">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>560</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_7">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>560</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="move_next">
+    <property name="geometry">
+     <rect>
+      <x>1000</x>
+      <y>940</y>
+      <width>361</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="move_previous">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>940</y>
+      <width>361</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="frame_1">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>180</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="frame_2">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>180</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="frame_3">
+    <property name="geometry">
+     <rect>
+      <x>660</x>
+      <y>180</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="frame_4">
+    <property name="geometry">
+     <rect>
+      <x>970</x>
+      <y>180</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="frame_5">
+    <property name="geometry">
+     <rect>
+      <x>1280</x>
+      <y>180</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="frame_6">
+    <property name="geometry">
+     <rect>
+      <x>1580</x>
+      <y>180</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="frame_7">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>560</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="frame_8">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>560</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="frame_9">
+    <property name="geometry">
+     <rect>
+      <x>660</x>
+      <y>560</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="frame_10">
+    <property name="geometry">
+     <rect>
+      <x>970</x>
+      <y>560</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="frame_11">
+    <property name="geometry">
+     <rect>
+      <x>1280</x>
+      <y>560</y>
+      <width>281</width>
+      <height>281</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap/>
+    </property>
+   </widget>
+   <zorder>label</zorder>
+   <zorder>frame_8</zorder>
+   <zorder>frame_9</zorder>
+   <zorder>frame_7</zorder>
+   <zorder>frame_6</zorder>
+   <zorder>frame_4</zorder>
+   <zorder>frame_3</zorder>
+   <zorder>frame_5</zorder>
+   <zorder>frame_2</zorder>
+   <zorder>frame_1</zorder>
+   <zorder>frame_11</zorder>
+   <zorder>frame_10</zorder>
+   <zorder>frame_choice_1</zorder>
+   <zorder>frame_choice_2</zorder>
+   <zorder>frame_choice_3</zorder>
+   <zorder>frame_choice_4</zorder>
+   <zorder>frame_choice_5</zorder>
+   <zorder>frame_choice_6</zorder>
+   <zorder>frame_choice_11</zorder>
+   <zorder>frame_choice_10</zorder>
+   <zorder>frame_choice_9</zorder>
+   <zorder>frame_choice_8</zorder>
+   <zorder>frame_choice_7</zorder>
+   <zorder>move_next</zorder>
+   <zorder>move_previous</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

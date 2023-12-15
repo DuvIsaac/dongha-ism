@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1920</width>
+    <height>1080</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>1920</width>
+      <height>1080</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../img/pages_v2/슬라이드4.jpg</pixmap>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="photo_choice_1">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>480</y>
+      <width>450</width>
+      <height>300</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="photo_choice_2">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>480</y>
+      <width>450</width>
+      <height>300</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="photo_choice_3">
+    <property name="geometry">
+     <rect>
+      <x>970</x>
+      <y>480</y>
+      <width>450</width>
+      <height>300</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="photo_choice_4">
+    <property name="geometry">
+     <rect>
+      <x>1440</x>
+      <y>480</y>
+      <width>450</width>
+      <height>300</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="print_photo">
+    <property name="geometry">
+     <rect>
+      <x>970</x>
+      <y>880</y>
+      <width>271</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:10px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="non_print_photo">
+    <property name="geometry">
+     <rect>
+      <x>690</x>
+      <y>880</y>
+      <width>261</width>
+      <height>131</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius : 5px;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="photo_1">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>480</y>
+      <width>450</width>
+      <height>300</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="photo_2">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>480</y>
+      <width>450</width>
+      <height>300</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="photo_3">
+    <property name="geometry">
+     <rect>
+      <x>970</x>
+      <y>480</y>
+      <width>450</width>
+      <height>300</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="photo_4">
+    <property name="geometry">
+     <rect>
+      <x>1440</x>
+      <y>480</y>
+      <width>450</width>
+      <height>300</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <zorder>label</zorder>
+   <zorder>print_photo</zorder>
+   <zorder>non_print_photo</zorder>
+   <zorder>photo_1</zorder>
+   <zorder>photo_2</zorder>
+   <zorder>photo_3</zorder>
+   <zorder>photo_4</zorder>
+   <zorder>photo_choice_3</zorder>
+   <zorder>photo_choice_2</zorder>
+   <zorder>photo_choice_4</zorder>
+   <zorder>photo_choice_1</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

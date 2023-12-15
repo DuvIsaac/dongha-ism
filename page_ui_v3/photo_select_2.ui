@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1920</width>
+    <height>1080</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>1920</width>
+      <height>1080</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../img/pages_v4/슬라이드10.png</pixmap>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="photo_choice_1">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>240</y>
+      <width>321</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="move_next">
+    <property name="geometry">
+     <rect>
+      <x>1010</x>
+      <y>940</y>
+      <width>351</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:10px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="photo_1">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>240</y>
+      <width>321</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="photo_2">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>240</y>
+      <width>321</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="photo_3">
+    <property name="geometry">
+     <rect>
+      <x>910</x>
+      <y>240</y>
+      <width>321</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="photo_4">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>630</y>
+      <width>321</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="photo_5">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>630</y>
+      <width>321</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="photo_6">
+    <property name="geometry">
+     <rect>
+      <x>910</x>
+      <y>630</y>
+      <width>321</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="photo_choice_2">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>240</y>
+      <width>321</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="photo_choice_3">
+    <property name="geometry">
+     <rect>
+      <x>910</x>
+      <y>240</y>
+      <width>321</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="photo_choice_4">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>630</y>
+      <width>321</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="photo_choice_5">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>630</y>
+      <width>321</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="photo_choice_6">
+    <property name="geometry">
+     <rect>
+      <x>910</x>
+      <y>630</y>
+      <width>321</width>
+      <height>221</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:1000px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="photo">
+    <property name="geometry">
+     <rect>
+      <x>1290</x>
+      <y>170</y>
+      <width>510</width>
+      <height>740</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <zorder>label</zorder>
+   <zorder>move_next</zorder>
+   <zorder>photo_1</zorder>
+   <zorder>photo_choice_1</zorder>
+   <zorder>photo_2</zorder>
+   <zorder>photo_3</zorder>
+   <zorder>photo_4</zorder>
+   <zorder>photo_5</zorder>
+   <zorder>photo_6</zorder>
+   <zorder>photo_choice_2</zorder>
+   <zorder>photo_choice_3</zorder>
+   <zorder>photo_choice_4</zorder>
+   <zorder>photo_choice_5</zorder>
+   <zorder>photo_choice_6</zorder>
+   <zorder>photo</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

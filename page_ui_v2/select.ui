@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1920</width>
+    <height>1080</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="move_previous">
+    <property name="geometry">
+     <rect>
+      <x>1070</x>
+      <y>830</y>
+      <width>271</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius : 5px;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="move_next">
+    <property name="geometry">
+     <rect>
+      <x>1360</x>
+      <y>830</y>
+      <width>271</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:10px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>1920</width>
+      <height>1080</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../img/pages_v2/슬라이드5.jpg</pixmap>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_1">
+    <property name="geometry">
+     <rect>
+      <x>1010</x>
+      <y>460</y>
+      <width>111</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:0px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_2">
+    <property name="geometry">
+     <rect>
+      <x>1150</x>
+      <y>460</y>
+      <width>111</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:0px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_3">
+    <property name="geometry">
+     <rect>
+      <x>1280</x>
+      <y>460</y>
+      <width>111</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:0px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_4">
+    <property name="geometry">
+     <rect>
+      <x>1410</x>
+      <y>460</y>
+      <width>111</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:0px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_5">
+    <property name="geometry">
+     <rect>
+      <x>1550</x>
+      <y>460</y>
+      <width>111</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:0px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_6">
+    <property name="geometry">
+     <rect>
+      <x>1010</x>
+      <y>590</y>
+      <width>111</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:0px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_7">
+    <property name="geometry">
+     <rect>
+      <x>1150</x>
+      <y>590</y>
+      <width>111</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:0px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_8">
+    <property name="geometry">
+     <rect>
+      <x>1280</x>
+      <y>590</y>
+      <width>111</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:0px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_9">
+    <property name="geometry">
+     <rect>
+      <x>1410</x>
+      <y>590</y>
+      <width>111</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:0px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="frame_choice_10">
+    <property name="geometry">
+     <rect>
+      <x>1550</x>
+      <y>590</y>
+      <width>111</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-radius:0px</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="frame_preview">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>460</y>
+      <width>721</width>
+      <height>501</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <zorder>label</zorder>
+   <zorder>move_previous</zorder>
+   <zorder>move_next</zorder>
+   <zorder>frame_choice_1</zorder>
+   <zorder>frame_choice_2</zorder>
+   <zorder>frame_choice_3</zorder>
+   <zorder>frame_choice_4</zorder>
+   <zorder>frame_choice_5</zorder>
+   <zorder>frame_choice_6</zorder>
+   <zorder>frame_choice_7</zorder>
+   <zorder>frame_choice_8</zorder>
+   <zorder>frame_choice_9</zorder>
+   <zorder>frame_choice_10</zorder>
+   <zorder>frame_preview</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

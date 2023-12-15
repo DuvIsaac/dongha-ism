@@ -1,6 +1,3 @@
-# digiCamControl 열고 라이브로 띄우기, 실시간 화면 전체로 바꾸고 라이브 하나 더 띄우기 위치 조정하기 (실시간 화면 위치 + Capture 버튼 위치)
-# 사진 선택화면에서 선택지 이미지 깨짐
-
 import sys
 from PyQt5.QtWidgets import *
 from PyQt5 import uic

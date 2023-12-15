@@ -17,6 +17,7 @@ ui 속 이미지 : ./img/pages_v4
 
 ### 부가 설명
 main 코드를 보며 등장하는 여러 파일들은 알아서 이해하기  
+main 코드 이외의 다른 코드는 테스트 코드임
 
 ## setup
 ### digiCamControl download [https://digicamcontrol.com/download]

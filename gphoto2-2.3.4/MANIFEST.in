@@ -1,4 +1,0 @@
-recursive-include src *.i *.py *.c *.txt
-recursive-include developer *
-recursive-exclude src doc-*
-exclude libghoto2*

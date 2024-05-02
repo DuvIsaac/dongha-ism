@@ -1,3 +1,7 @@
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+</p>
+
 # 충북과학고등학교 사름제 인생네컷 부스
 
 ## 주요 코드 및 파일/폴더 설명
